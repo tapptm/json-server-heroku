@@ -1,0 +1,55 @@
+{
+  "zone": {
+      "update-th1.goonvpn.com": {
+          "122.155.165.62": "ดาวน์โหลด หรืออัพเดทเกมส์",
+          "flag": "th",
+          "id": "web-th1",
+          "zone": "Thailand",
+          "duplicate": true
+      },
+      "th1.goonvpn.com": {
+          "122.155.168.189": "Thailand 1 - Zone A",
+          "flag": "th",
+          "id": "th1",
+          "zone": "Thailand"
+      },
+      "th2.goonvpn.com": {
+          "122.155.168.212": "Thailand 2 - Zone A",
+          "flag": "th",
+          "id": "th2",
+          "zone": "Thailand"
+      },
+      "th3.goonvpn.com": {
+          "122.155.168.213": "Thailand 3 - Zone A",
+          "flag": "th",
+          "id": "th3",
+          "zone": "Thailand"
+      }
+  },
+  "package": [
+      {
+          "price": 50,
+          "gp": 55
+      },
+      {
+          "price": 90,
+          "gp": 99
+      },
+      {
+          "price": 150,
+          "gp": 165
+      },
+      {
+          "price": 300,
+          "gp": 330
+      },
+      {
+          "price": 1000,
+          "gp": 1100
+      },
+      {
+          "price": 1400,
+          "gp": 1540
+      }
+  ]
+}
